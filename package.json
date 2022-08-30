@@ -21,6 +21,6 @@
     "eslint-plugin-vue": "^7.0.0-alpha.3",
     "prettier": "^2.0.5",
     "typescript": "^3.9.2",
-    "vite": "^0.15.4"
+    "vite": "^2.9.13"
   }
 }
